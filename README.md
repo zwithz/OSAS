@@ -6,7 +6,8 @@
 
 ## Collections
 
-- [TextDelivery based on LeanCloud](TextDelivery/README.md)
+- [TextDelivery based on LeanCloud](/TextDelivery/README.md)
+- [Resize your Images](/ResizeImages/README.md)
 
 ## About me
 
